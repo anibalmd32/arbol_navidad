@@ -1,0 +1,8 @@
+{
+  "name": "Mágico Árbol de Navidad 3D",
+  "description": "Una experiencia inmersiva en 3D donde puedes dejar regalos bajo el árbol para ser abiertos el 25 de diciembre. Incluye efectos de nieve, animaciones interactivas y mensajes mágicos generados por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
